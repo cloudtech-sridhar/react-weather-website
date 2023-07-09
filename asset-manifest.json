@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.4fb7a180.js",
-    "index.html": "/index.html",
-    "main.4fb7a180.js.map": "/static/js/main.4fb7a180.js.map"
+    "main.js": "/react-weather-website/static/js/main.4fb7a180.js",
+    "index.html": "/react-weather-website/index.html",
+    "main.4fb7a180.js.map": "/react-weather-website/static/js/main.4fb7a180.js.map"
   },
   "entrypoints": [
     "static/js/main.4fb7a180.js"
